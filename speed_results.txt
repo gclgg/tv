@@ -1,0 +1,4 @@
+CCTV2,http://125.93.74.27:9002/tsfile/live/0002_1.m3u8?key=txiptv&playlive=1&authid=0,0.407 MB/s
+CCTV12,http://125.93.74.27:9002/tsfile/live/0012_1.m3u8?key=txiptv&playlive=1&authid=0,0.407 MB/s
+山东卫视,http://125.93.74.27:9002/tsfile/live/0131_1.m3u8?key=txiptv&playlive=1&authid=0,0.407 MB/s
+广东影视,http://125.93.74.27:9002/tsfile/live/1006_1.m3u8?key=txiptv&playlive=1&authid=0,0.407 MB/s
